@@ -29,7 +29,7 @@ Executable graphtype
         Parse
         OptionParser
         Text.Dot
-  Build-Depends:       base >=3 && <5 , haskell-src-exts, uniplate, containers, haskell98
+  Build-Depends:       base >=3 && <5 , haskell-src-exts, uniplate, containers
 
 source-repository head
   type:      git
